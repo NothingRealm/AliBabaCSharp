@@ -1,0 +1,11 @@
+/home/shayan/Desktop/AlibabaC#/lambda/lambda/lambda/bin/Debug/netcoreapp3.1/lambda
+/home/shayan/Desktop/AlibabaC#/lambda/lambda/lambda/bin/Debug/netcoreapp3.1/lambda.deps.json
+/home/shayan/Desktop/AlibabaC#/lambda/lambda/lambda/bin/Debug/netcoreapp3.1/lambda.runtimeconfig.json
+/home/shayan/Desktop/AlibabaC#/lambda/lambda/lambda/bin/Debug/netcoreapp3.1/lambda.runtimeconfig.dev.json
+/home/shayan/Desktop/AlibabaC#/lambda/lambda/lambda/bin/Debug/netcoreapp3.1/lambda.dll
+/home/shayan/Desktop/AlibabaC#/lambda/lambda/lambda/bin/Debug/netcoreapp3.1/lambda.pdb
+/home/shayan/Desktop/AlibabaC#/lambda/lambda/lambda/obj/Debug/netcoreapp3.1/lambda.csprojAssemblyReference.cache
+/home/shayan/Desktop/AlibabaC#/lambda/lambda/lambda/obj/Debug/netcoreapp3.1/lambda.AssemblyInfoInputs.cache
+/home/shayan/Desktop/AlibabaC#/lambda/lambda/lambda/obj/Debug/netcoreapp3.1/lambda.AssemblyInfo.cs
+/home/shayan/Desktop/AlibabaC#/lambda/lambda/lambda/obj/Debug/netcoreapp3.1/lambda.dll
+/home/shayan/Desktop/AlibabaC#/lambda/lambda/lambda/obj/Debug/netcoreapp3.1/lambda.pdb
