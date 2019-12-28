@@ -1,0 +1,11 @@
+/home/shayan/Desktop/AlibabaC#/Fib/bin/Debug/netcoreapp3.1/Fib
+/home/shayan/Desktop/AlibabaC#/Fib/bin/Debug/netcoreapp3.1/Fib.deps.json
+/home/shayan/Desktop/AlibabaC#/Fib/bin/Debug/netcoreapp3.1/Fib.runtimeconfig.json
+/home/shayan/Desktop/AlibabaC#/Fib/bin/Debug/netcoreapp3.1/Fib.runtimeconfig.dev.json
+/home/shayan/Desktop/AlibabaC#/Fib/bin/Debug/netcoreapp3.1/Fib.dll
+/home/shayan/Desktop/AlibabaC#/Fib/bin/Debug/netcoreapp3.1/Fib.pdb
+/home/shayan/Desktop/AlibabaC#/Fib/obj/Debug/netcoreapp3.1/Fib.csprojAssemblyReference.cache
+/home/shayan/Desktop/AlibabaC#/Fib/obj/Debug/netcoreapp3.1/Fib.AssemblyInfoInputs.cache
+/home/shayan/Desktop/AlibabaC#/Fib/obj/Debug/netcoreapp3.1/Fib.AssemblyInfo.cs
+/home/shayan/Desktop/AlibabaC#/Fib/obj/Debug/netcoreapp3.1/Fib.dll
+/home/shayan/Desktop/AlibabaC#/Fib/obj/Debug/netcoreapp3.1/Fib.pdb
