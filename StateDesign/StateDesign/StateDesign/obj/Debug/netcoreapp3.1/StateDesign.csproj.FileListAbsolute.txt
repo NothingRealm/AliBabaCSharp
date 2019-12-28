@@ -1,0 +1,11 @@
+/home/shayan/Desktop/AlibabaC#/StateDesign/StateDesign/StateDesign/bin/Debug/netcoreapp3.1/StateDesign
+/home/shayan/Desktop/AlibabaC#/StateDesign/StateDesign/StateDesign/bin/Debug/netcoreapp3.1/StateDesign.deps.json
+/home/shayan/Desktop/AlibabaC#/StateDesign/StateDesign/StateDesign/bin/Debug/netcoreapp3.1/StateDesign.runtimeconfig.json
+/home/shayan/Desktop/AlibabaC#/StateDesign/StateDesign/StateDesign/bin/Debug/netcoreapp3.1/StateDesign.runtimeconfig.dev.json
+/home/shayan/Desktop/AlibabaC#/StateDesign/StateDesign/StateDesign/bin/Debug/netcoreapp3.1/StateDesign.dll
+/home/shayan/Desktop/AlibabaC#/StateDesign/StateDesign/StateDesign/bin/Debug/netcoreapp3.1/StateDesign.pdb
+/home/shayan/Desktop/AlibabaC#/StateDesign/StateDesign/StateDesign/obj/Debug/netcoreapp3.1/StateDesign.csprojAssemblyReference.cache
+/home/shayan/Desktop/AlibabaC#/StateDesign/StateDesign/StateDesign/obj/Debug/netcoreapp3.1/StateDesign.AssemblyInfoInputs.cache
+/home/shayan/Desktop/AlibabaC#/StateDesign/StateDesign/StateDesign/obj/Debug/netcoreapp3.1/StateDesign.AssemblyInfo.cs
+/home/shayan/Desktop/AlibabaC#/StateDesign/StateDesign/StateDesign/obj/Debug/netcoreapp3.1/StateDesign.dll
+/home/shayan/Desktop/AlibabaC#/StateDesign/StateDesign/StateDesign/obj/Debug/netcoreapp3.1/StateDesign.pdb
