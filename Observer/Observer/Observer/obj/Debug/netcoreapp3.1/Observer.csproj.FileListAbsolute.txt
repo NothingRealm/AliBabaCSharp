@@ -1,0 +1,11 @@
+/home/shayan/Desktop/AlibabaC#/Observer/Observer/Observer/bin/Debug/netcoreapp3.1/Observer
+/home/shayan/Desktop/AlibabaC#/Observer/Observer/Observer/bin/Debug/netcoreapp3.1/Observer.deps.json
+/home/shayan/Desktop/AlibabaC#/Observer/Observer/Observer/bin/Debug/netcoreapp3.1/Observer.runtimeconfig.json
+/home/shayan/Desktop/AlibabaC#/Observer/Observer/Observer/bin/Debug/netcoreapp3.1/Observer.runtimeconfig.dev.json
+/home/shayan/Desktop/AlibabaC#/Observer/Observer/Observer/bin/Debug/netcoreapp3.1/Observer.dll
+/home/shayan/Desktop/AlibabaC#/Observer/Observer/Observer/bin/Debug/netcoreapp3.1/Observer.pdb
+/home/shayan/Desktop/AlibabaC#/Observer/Observer/Observer/obj/Debug/netcoreapp3.1/Observer.csprojAssemblyReference.cache
+/home/shayan/Desktop/AlibabaC#/Observer/Observer/Observer/obj/Debug/netcoreapp3.1/Observer.AssemblyInfoInputs.cache
+/home/shayan/Desktop/AlibabaC#/Observer/Observer/Observer/obj/Debug/netcoreapp3.1/Observer.AssemblyInfo.cs
+/home/shayan/Desktop/AlibabaC#/Observer/Observer/Observer/obj/Debug/netcoreapp3.1/Observer.dll
+/home/shayan/Desktop/AlibabaC#/Observer/Observer/Observer/obj/Debug/netcoreapp3.1/Observer.pdb
