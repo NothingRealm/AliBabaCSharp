@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <!-- <ItemGroup>
+        <ProjectRefrence Include="../access_layer/access_layer.csproj" />
+        <ProjectRefrence Include="../app_core/app_core.csproj" />
+  </ItemGroup> -->
+
+  <ItemGroup>
+    <ProjectReference Include="..\access_layer\access_layer.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+
+
+</Project>
