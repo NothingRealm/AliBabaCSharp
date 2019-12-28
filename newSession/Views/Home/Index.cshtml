@@ -1,0 +1,17 @@
+﻿@model newSession.Models.Users;
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <form action="/Home/index" method="get">
+        @* <input asp-for="id" class="display-4">id</input> *@
+        <input asp-for="age" />age
+        <input asp-for="name" />name
+        <input asp-for="family" />family
+        @* <input asp-for="salary" class="display-4">salary</input> *@
+        <button type="submit">submit It</button>
+        <label>Total Students:</label>  @ViewBag.age  
+    </form>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
