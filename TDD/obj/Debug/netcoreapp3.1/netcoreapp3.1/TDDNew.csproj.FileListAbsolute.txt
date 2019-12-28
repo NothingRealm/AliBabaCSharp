@@ -1,0 +1,14 @@
+/home/shayan/Desktop/AlibabaC#/TDDNew/bin/Debug/netcoreapp3.1/netcoreapp3.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/shayan/Desktop/AlibabaC#/TDDNew/bin/Debug/netcoreapp3.1/netcoreapp3.1/xunit.runner.reporters.netcoreapp10.dll
+/home/shayan/Desktop/AlibabaC#/TDDNew/bin/Debug/netcoreapp3.1/netcoreapp3.1/xunit.runner.utility.netcoreapp10.dll
+/home/shayan/Desktop/AlibabaC#/TDDNew/bin/Debug/netcoreapp3.1/netcoreapp3.1/TDDNew
+/home/shayan/Desktop/AlibabaC#/TDDNew/bin/Debug/netcoreapp3.1/netcoreapp3.1/TDDNew.deps.json
+/home/shayan/Desktop/AlibabaC#/TDDNew/bin/Debug/netcoreapp3.1/netcoreapp3.1/TDDNew.runtimeconfig.json
+/home/shayan/Desktop/AlibabaC#/TDDNew/bin/Debug/netcoreapp3.1/netcoreapp3.1/TDDNew.runtimeconfig.dev.json
+/home/shayan/Desktop/AlibabaC#/TDDNew/bin/Debug/netcoreapp3.1/netcoreapp3.1/TDDNew.dll
+/home/shayan/Desktop/AlibabaC#/TDDNew/bin/Debug/netcoreapp3.1/netcoreapp3.1/TDDNew.pdb
+/home/shayan/Desktop/AlibabaC#/TDDNew/obj/Debug/netcoreapp3.1/netcoreapp3.1/TDDNew.csprojAssemblyReference.cache
+/home/shayan/Desktop/AlibabaC#/TDDNew/obj/Debug/netcoreapp3.1/netcoreapp3.1/TDDNew.AssemblyInfoInputs.cache
+/home/shayan/Desktop/AlibabaC#/TDDNew/obj/Debug/netcoreapp3.1/netcoreapp3.1/TDDNew.AssemblyInfo.cs
+/home/shayan/Desktop/AlibabaC#/TDDNew/obj/Debug/netcoreapp3.1/netcoreapp3.1/TDDNew.dll
+/home/shayan/Desktop/AlibabaC#/TDDNew/obj/Debug/netcoreapp3.1/netcoreapp3.1/TDDNew.pdb
